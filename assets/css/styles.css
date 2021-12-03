@@ -1,5 +1,6 @@
 body{
     font-family: Helvetica;
+    color: #ffffff;
 }
 /*BARRA DE NAVEGACIÓN*/
 .navbar{
@@ -21,8 +22,7 @@ body{
 
 #Color-fondo{
     background-color:black ;
-    color:white;
-}
+    }
 
 .parrafo-icono{ /*centra el ícono de fontawesone*/
     text-align: center;
